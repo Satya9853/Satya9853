@@ -1,3 +1,4 @@
+![logo](https://github.com/Satya9853/Satya9853/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Satya Bhusan Prusty</h1>
 <h3 align="center">Programmer: A machine that turns coffee into code.</h3>
 
