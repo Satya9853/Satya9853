@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Brew Digital Coffee](https://github.com/Satya9853/Digital_Coffee_Shop) 
 -  🌱 I’m currently learning **NextJs** 
-- 💬 Ask me about **React, JavaScript, ExpressJs, Backend development** 
+- 💬 Ask me about **React, JavaScript, NodeJs, ExpressJs & Backend related stuffs** 
 - 📫 How to reach me **satyabhusan9853@gmail.com**
 - ⚡ Fun fact **Programming made the impossible possible. You can have a null object and a constant variable.**
 
